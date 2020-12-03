@@ -1,0 +1,56 @@
+{
+  "//1": "Ekstradan Modül Vardır",
+  "//2": "Burdan Asla Bişey Değiştirmeyin",
+  "//3": "Modüllerin sürümünü Değiştirmek İçin Yukardaki Butona Basıp Modülün ismini Yazın Daha Sonra Modülün Üstündeki Versiyon'a Tıklayın",
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^7.1.0",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "db": "^3.3.0",
+    "discord-anti-spam": "^2.4.1",
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "http": "^0.0.0",
+    "jimp": "^0.16.1",
+    "math-expression-evaluator": "^1.2.22",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "registry.npmjs.org": "^1.0.1",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^3.6.4",
+    "sqlite": "^4.0.14",
+    "youtube-info": "^1.3.2",
+    "ytdl-core": "^3.4.0",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "util": "^0.12.3",
+    "google-tts-api": "^0.0.4",
+    "weather-js": "^2.0.0",
+    "discord.js-commando": "^0.10.0",
+    "dctr-antispam.js": "^0.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
